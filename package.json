@@ -33,7 +33,7 @@
     "@nestjs/common": "8.4.0",
     "@nestjs/config": "1.2.0",
     "@nestjs/core": "8.4.0",
-    "@nestjs/graphql": "9.1.2",
+    "@nestjs/graphql": "10.0.10",
     "@nestjs/platform-express": "8.4.0",
     "@vendia/serverless-express": "4.5.4",
     "apollo-server-express": "3.6.3",
